@@ -1,44 +1,40 @@
 # ¡Hola! Soy Alejandro 👋
 
-### 🚀 Desarrollador Web & Diseñador de Experiencias Interactivas
+### 🚀 Desarrollador Web Full Stack
 
-Me apasiona construir aplicaciones web robustas, exprimir el potencial del **CSS puro** para lograr interfaces impecables y dar vida a ideas a través del **desarrollo de videojuegos**. Siempre estoy trasteando con código, automatizaciones o configurando algún servidor en mi entorno local.
+Me dedico a construir aplicaciones web robustas, eficientes y escalables. En el **Frontend**, me apasiona crear interfaces impecables y exprimir el potencial del **CSS puro** para lograr diseños dinámicos sin depender de frameworks pesados. En el **Backend**, disfruto diseñando arquitecturas sólidas, gestionando bases de datos y desplegando servicios en entornos eficientes.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Stack Tecnológico
 
-#### **Frontend & UI**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+#### **Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23dd0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 #### **Backend & Bases de Datos**
 ![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
----
-
-### 🕹️ En lo que estoy metido actualmente
-
-* 🌐 Desarrollando proyectos web a medida cuidando la arquitectura y el rendimiento.
-* 🤖 Experimentando con **Agentes de IA autónomos** para procesamiento de tareas y flujos de trabajo.
-* 🎮 Creando prototipos y mecánicas de juego en **Godot** y **Unity**.
-* 🖥️ Configurando infraestructura local, servidores caseros y entornos virtuales de pruebas.
 
 ---
 
-### 📈 Mis Estadísticas de GitHub
+### 💻 En lo que me enfoco actualmente
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
+* 🌐 Construcción de Single Page Applications (SPAs) modernas e interactivas utilizando React y Angular.
+* 🛠️ Desarrollo de APIs REST robustas y lógica de negocio en el lado del servidor.
+* 🗄️ Modelado, optimización y gestión de bases de datos relacionales.
+* 🐧 Despliegue, administración y automatización de entornos en servidores Linux.
 
 ---
 
 ### 🤝 Conectemos
 * 💼 **LinkedIn:** [Tu Nombre/Enlace](https://linkedin.com/in/tu-usuario)
-* 🌐 **Portfolio:** [tuweb.dev](https://tuweb.dev)
+* 📧 **Contacto:** [tu-correo@email.com](mailto:tu-correo@email.com)
