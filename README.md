@@ -36,5 +36,5 @@ Me dedico a construir aplicaciones web robustas, eficientes y escalables. En el 
 ---
 
 ### 🤝 Conectemos
-* 💼 **LinkedIn:** [Tu Nombre/Enlace](https://linkedin.com/in/tu-usuario)
-* 📧 **Contacto:** [tu-correo@email.com](mailto:tu-correo@email.com)
+* 💼 **LinkedIn:** [Alejandro Durillo Vargas](www.linkedin.com/in/alejandrodurilloweb-dev)
+* 📧 **Contacto:** [alejandrodurillovargas21@gmail.com](mailto:alejandrodurillovargas21@gmail.com)
